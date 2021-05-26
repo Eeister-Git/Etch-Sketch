@@ -1,0 +1,15 @@
+table td{
+    padding: 25px;
+    border: 5px solid red;
+    transition: 0s 9999999999999s;
+}
+
+td:hover,
+.permahover{
+    background-color: black;
+    transition: 0s;
+}
+
+table{
+    margin: auto;
+}
