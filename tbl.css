@@ -1,6 +1,6 @@
 table td{
-    padding: 25px;
-    border: 5px solid red;
+    padding: 20px;
+    border: 1px solid black;
     transition: 0s 9999999999999s;
 }
 
